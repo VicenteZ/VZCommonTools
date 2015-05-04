@@ -2,7 +2,7 @@
 //  NSString+VZSandBox.h
 //  VZCommonTools
 //
-//  Created by 赵欣 on 15/4/24.
+//  Created by 赵欣 on 15/4/24
 //  Copyright (c) 2015年 vicentez. All rights reserved.
 //
 
